@@ -10,3 +10,5 @@ Code to find the sum of the cubes of the first n natural numbers.
 Code to list the first n natural numbers.
 # Day 5
 Code to list the first n even natural numbers.
+# Day 6
+Code to list the first n odd natural numbers.
