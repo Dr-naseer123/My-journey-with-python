@@ -12,3 +12,5 @@ Code to list the first n natural numbers.
 Code to list the first n even natural numbers.
 # Day 6
 Code to list the first n odd natural numbers.
+# Day 7
+Code to identify the given number positive, negative or zero
