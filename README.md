@@ -14,3 +14,5 @@ Code to list the first n even natural numbers.
 Code to list the first n odd natural numbers.
 # Day 7
 Code to identify the given number positive, negative or zero
+# Day 8
+Input natural number is even or odd
