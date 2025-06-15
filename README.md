@@ -16,3 +16,5 @@ Code to list the first n odd natural numbers.
 Code to identify the given number positive, negative or zero
 # Day 8
 Input natural number is even or odd
+# Day 9
+Computing factorial of a given number
