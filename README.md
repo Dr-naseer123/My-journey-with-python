@@ -18,3 +18,7 @@ Code to identify the given number positive, negative or zero
 Input natural number is even or odd
 # Day 9
 Computing factorial of a given number
+# Day 10
+Checking a given string is palindrome or not
+Palindrome means a word from beginning and end are read same 
+example mom, maam, etc
