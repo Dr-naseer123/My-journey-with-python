@@ -24,3 +24,5 @@ Palindrome means a word from beginning and end are read same
 example mom, maam, etc
 # Day 11
 Code to add two numbers by using function
+# Day 12
+Day_12_Difference of two numbers using function
