@@ -28,3 +28,5 @@ Code to add two numbers using function
 Difference of two numbers using function
 # Day 13
 Product of two numbers using function
+# Day 14
+Division of two numbers using function
