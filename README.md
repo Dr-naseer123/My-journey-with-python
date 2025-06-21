@@ -32,3 +32,5 @@ Product of two numbers using function
 Division of two numbers using function
 # Day 15
 Finding the sum, difference, product and division of two numbers using function
+# Day 16
+Performing the desired operation using function
