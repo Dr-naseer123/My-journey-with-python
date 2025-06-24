@@ -36,3 +36,5 @@ Finding the sum, difference, product and division of two numbers using function.
 Performing the desired operation using function.
 # Day 17
 Code to write multiplication tables prompting user to choose a desired tables as well as multiples.
+# Day 18
+Code to find a root of linear equation of the form ax+b=0
