@@ -38,3 +38,5 @@ Performing the desired operation using function.
 Code to write multiplication tables prompting user to choose a desired tables as well as multiples.
 # Day 18
 Code to find a root of linear equation of the form ax+b=0
+# Day 19
+Code to find roots of a quadratic equation
