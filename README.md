@@ -40,3 +40,6 @@ Code to write multiplication tables prompting user to choose a desired tables as
 Code to find a root of linear equation of the form ax+b=0
 # Day 19
 Code to find roots of a quadratic equation
+# Day 20
+Code to find roots of a quadratic equation including complex roots.
+To find complex roots of the quadratic equation we import cmath
