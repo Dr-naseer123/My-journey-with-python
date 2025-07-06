@@ -45,3 +45,5 @@ Code to find roots of a quadratic equation including complex roots.
 To find complex roots of the quadratic equation we import cmath
 # Day 21
 Code for leap year checker
+# Day 22
+Day_22_Standard library function from cmath and math
