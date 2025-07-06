@@ -46,4 +46,6 @@ To find complex roots of the quadratic equation we import cmath
 # Day 21
 Code for leap year checker
 # Day 22
-Day_22_Standard library function from cmath and math
+Code on many math function which are standard library function from cmath and math
+# Day 23
+Code to find the sum of any number of exponential function
